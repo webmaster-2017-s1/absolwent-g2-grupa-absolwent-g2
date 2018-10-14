@@ -3,11 +3,10 @@
 
 # TEAM
 
-    <name> -- <role> -- <email>
+    Katarzyna D¹da -- uk³ad strony -- katarzyna.dada@lo1.sandomierz.pl
+    Nikola Chmiel -- wygl¹d strony -- nikola.chmiel@lo1.sandomierz.pl
 
 # THANKS
-
-    <name>
 
 # TECHNOLOGY COLOPHON
 
