@@ -1,13 +1,7 @@
-Uzupełnij poniższy dokument zastępując tekst "[wpisz nazwę]" nazwą
-twojego (waszego) projektu w Bootstrap 4.
+# absolwent-g2-grupa-absolwent-g2
 
-Przeczytaj [instrukcję realizacji zadania](doc/zadanie.md).
-
-Po uzupełnieniu dokumentu usuń powyższe oraz niniejszy akapit
-i zatwierdź zmiany używając komentarza "Aktualizacja README.md".
-
-# [Wpisz nazwę projektu]
-Szablon wykorzystujący framework Bootstrap v. 4 dla serwisu [wpisz nazwę]
+Szablon wykorzystujący framework Bootstrap v. 4 dla serwisu absolwent-g2-grupa-absolwent-g2
 
 ## Użycie
-[Tu umieść opis ewentualnych kroków wymaganych do wykorzystania szablonu]
+I. Sklonuj repozytorium przy pomocy polecenia: git clone https://github.com/webmaster-2017-s1/absolwent-g2-grupa-absolwent-g2.git.
+II. Rozpocznij przeglądanie serwisu od pliku index.html.
