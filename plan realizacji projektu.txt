@@ -6,6 +6,8 @@
 	*menu I stopnia: kontakt, logowanie/rejestracja;
 	*logo;
 	*menu II stopnia: strona g³ówna, historia szko³y,absolwenci, s³awni absolwenci, galeria, podziêkowania;
+	*stopka
+	*treœæ 
 6.Dostosowanie wygl¹du strony.
 7.Utworzenie specyfikacji u¿ytych czcionek i kolorów.
 8.Sprawdzenie dzia³ania serwisu. Koniec realizacji projektu.
