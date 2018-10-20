@@ -1,13 +1,16 @@
-1.Zapoznanie siê z wymaganiami odnoœnie realizacji projektu.
-2.Dodanie informacji o autorach projektu i ich zadaniach do pliku humans.
-3.Dostosowanie pliku README.md.
-4.Utworzenie planu realizacji projektu.
-5.Zaplanowanie wygl¹du serwisu:
-	*menu I stopnia: kontakt, logowanie/rejestracja;
+1.Zapoznanie siê z wymaganiami odnoœnie realizacji projektu.   ( 1. tydzieñ paŸdziernika )
+2.Dodanie informacji o autorach projektu i ich zadaniach do pliku humans.   ( I tydzieñ paŸdziernika )
+3.Dostosowanie pliku README.md.   ( 1. tydzieñ paŸdziernika )
+4.Utworzenie planu realizacji projektu.   ( 1. tydzieñ paŸdziernika )
+5.Zaplanowanie wygl¹du serwisu:   ( 2. tydzieñ paŸdziernika )
+	*menu I stopnia;
 	*logo;
-	*menu II stopnia: strona g³ówna, historia szko³y,absolwenci, s³awni absolwenci, galeria, podziêkowania;
-	*stopka
-	*treœæ 
-6.Dostosowanie wygl¹du strony.
-7.Utworzenie specyfikacji u¿ytych czcionek i kolorów.
-8.Sprawdzenie dzia³ania serwisu. Koniec realizacji projektu.
+	*menu II stopnia;
+	*UTWORZENIE SZABLONÓW STRON:
+		- strona g³ówna,
+		- kontakt,
+		- logowanie/rejestracja.;
+6.Dostosowanie wygl¹du strony (css).   ( 3. tydzieñ paŸdziernika )
+7.Utworzenie specyfikacji u¿ytych czcionek i kolorów.   ( 3. tydzieñ paŸdziernika )
+8.Sprawdzenie dzia³ania serwisu.   ( 3. tydzieñ paŸdziernika )
+9.Koniec realizacji projektu.   ( 3. tydzieñ paŸdziernika )
