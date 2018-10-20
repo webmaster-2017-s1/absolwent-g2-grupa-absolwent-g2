@@ -1,1 +1,63 @@
-/* Twoje style */
+body {
+    font-family:  serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    background-color: #D3D3D3;
+    padding: 0.25cm 1cm;
+    }
+
+.img{ 
+	width: 500px;
+	height: auto;
+	padding: 15px;
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+	}
+
+.logo{
+	padding-right: 30px;
+    padding-left: 30px;
+}
+
+.title{
+	color: #191970;
+    text-shadow: 3px 3px 5px #87CEFA;
+    padding-right: 30px;
+}
+
+h1 {
+	color: #191970;
+    font-size: 250%;
+    text-shadow: 3px 3px 5px #87CEFA;
+	text-align: center;
+	letter-spacing: 2px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	}
+	
+h2{
+	color: #191970;
+	font-size: 200%;
+	text-align: center;
+	letter-spacing: 1px;
+	font-weight: 700;
+	font-size: 45px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h3{
+	color: black;
+	text-shadow: 3px 3px 5px #87CEFA;
+}
+	
+nav{
+	font-size: 130%;
+}
+
+li{
+	text-align: center;
+}
+
+
