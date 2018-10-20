@@ -45,99 +45,106 @@
   </script>
 
   <!-- Nagłówek strony: menu, logo, breadcrumbs itp. -->
-  <div class="container">
-	<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="page-header">
-	<img src="imgs/logocg.gif" alt="">
-  </div>
-  <a class="navbar-brand" href="#">I LO Collegium Gostomianum - serwis dla absolwentów</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav">
-      <a class="nav-item nav-link" href="kontakt.html">Kontakt</a>
-      <a class="nav-item nav-link" href="logowanie.html">Zaloguj się/Zarejestruj się</a>
-    </div>
-  </div>
-</nav>
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav">
-      <a class="nav-item nav-link active" href="index.html">Strona główna <span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link" href="#">Historia szkoły</a>
-      <a class="nav-item nav-link" href="#">Absolwenci</a>
-      <a class="nav-item nav-link" href="#">Sławni absolwenci</a>
-      <a class="nav-item nav-link" href="#">Galeria</a>
-      <a class="nav-item nav-link" href="#">Podziękowania</a>
-    </div>
-  </div>
-</nav>
-  </div>
+	<div class="container">
+						
+		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+			<div class="page-header">
+				<img src="imgs/logocg.gif" alt="">
+			</div>
+				<a class="navbar-brand" href="#">I LO Collegium Gostomianum - serwis dla absolwentów</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+			<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+				<div class="navbar-nav">
+					<a class="nav-item nav-link" href="kontakt.html">Kontakt</a>
+					<a class="nav-item nav-link" href="logowanie.html">Zaloguj się/Zarejestruj się</a>
+				</div>
+			</div>
+		</nav>
+		
+		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+			<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+				<div class="navbar-nav">
+					<a class="nav-item nav-link active" href="index.html">Strona główna <span class="sr-only">(current)</span></a>
+					<a class="nav-item nav-link" href="#">Historia szkoły</a>
+					<a class="nav-item nav-link" href="#">Absolwenci</a>
+					<a class="nav-item nav-link" href="#">Sławni absolwenci</a>
+					<a class="nav-item nav-link" href="#">Galeria</a>
+					<a class="nav-item nav-link" href="#">Podziękowania</a>
+				</div>
+			</div>
+		</nav>
+			
+	</div>
 
   <!-- Treść główna -->
 	<div class="container">
 		<h1>Logowanie</h1>
-		<form>
-  <div class="form-group">
-    <label for="exampleInputEmail1">E-mail</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Wprowadź e-mail">
-  </div>
-  <div class="form-group">
-    <label for="exampleInputPassword1">Hasło</label>
-    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Wprowadź hasło">
-  </div>
-  <div class="form-group form-check">
-    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-    <label class="form-check-label" for="exampleCheck1">Zapamiętaj mnie.</label>
-  </div>
-  <button type="submit" class="btn btn-primary">Zaloguj się</button>
-</form>
-<small>Nie masz konta? Zarejestruj się poniżej.</small>
+		<form>	
+			<div class="form-group">
+				<label for="exampleInputEmail1">E-mail</label>
+				<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Wprowadź e-mail">
+			</div>
+			
+			<div class="form-group">
+				<label for="exampleInputPassword1">Hasło</label>
+				<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Wprowadź hasło">
+			</div>
+			
+			<div class="form-group form-check">
+				<input type="checkbox" class="form-check-input" id="exampleCheck1">
+				<label class="form-check-label" for="exampleCheck1">Zapamiętaj mnie.</label>
+			</div>
+			<button type="submit" class="btn btn-primary">Zaloguj się</button>
+		</form>
+		<small>Nie masz konta? Zarejestruj się poniżej.</small>
 		<h1>Rejestracja</h1>
 		<form>
-  <div class="form-group">
-	    <div class="form-group">
-    <label for="exampleInputPassword1">Imię</label>
-    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Podaj imię">
-  </div>
-    <div class="form-group">
-    <label for="exampleInputPassword1">Nazwisko</label>
-    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Podaj nazwisko">
-  </div>
-  <div>
-        <legend class="col-form-label">Płeć</legend>
-      <div class="col-sm-10">
-        <div class="form-check">
-          <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value="option1" checked>
-          <label class="form-check-label" for="gridRadios1">
-            Kobieta
-          </label>
-        </div>
-        <div class="form-check">
-          <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="option2">
-          <label class="form-check-label" for="gridRadios2">
-            Mężczyzna
-          </label>
-        </div>
-			  </div>
-    <div class="form-group">
-    <label for="exampleInputPassword1">Rok ukończenia szkoły</label>
-    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Wprowadź rok ukończenia szkoły">
-  </div>
-    <label for="exampleInputEmail1">E-mail</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Wprowadź e-mail">
-  </div>
-  <div class="form-group">
-    <label for="exampleInputPassword1">Hasło</label>
-    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Wprowadż hasło">
-  </div>
-    <div class="form-group">
-    <label for="exampleInputPassword1">Powtórz hasło</label>
-    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Powtórz hasło">
-  </div>
-  <button type="submit" class="btn btn-primary">Zarejestruj się</button>
-</form>
+			<div class="form-group">
+				<label for="exampleInputPassword1">Imię</label>
+				<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Podaj imię">
+			</div>
+			<div class="form-group">
+				<label for="exampleInputPassword1">Nazwisko</label>
+				<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Podaj nazwisko">
+			</div>
+			<div>
+			<legend class="col-form-label">Płeć</legend>
+				<div class="col-sm-10">
+					<div class="form-check">
+						<input class="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value="option1" checked>
+						<label class="form-check-label" for="gridRadios1">
+								Kobieta
+						</label>
+					</div>
+					<div class="form-check">
+						<input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="option2">
+						<label class="form-check-label" for="gridRadios2">
+							Mężczyzna
+						</label>
+					</div>
+				</div>
+			</div>
+			<div class="form-group">
+				<label for="exampleInputPassword1">Rok ukończenia szkoły</label>
+				<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Wprowadź rok ukończenia szkoły">
+			</div>
+			<div class="form-group">
+				<label for="exampleInputEmail1">E-mail</label>
+				<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Wprowadź e-mail">
+			</div>
+			<div class="form-group">
+				<label for="exampleInputPassword1">Hasło</label>
+				<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Wprowadż hasło">
+			</div>
+			<div class="form-group">
+				<label for="exampleInputPassword1">Powtórz hasło</label>
+				<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Powtórz hasło">
+			</div>
+			<button type="submit" class="btn btn-primary">Zarejestruj się</button>
+			</div>
+		</form>
 	</div>
   <!-- Stopka strony: copyrights, dodatkowe linki itp. -->
   <div class="card-footer text-muted">
