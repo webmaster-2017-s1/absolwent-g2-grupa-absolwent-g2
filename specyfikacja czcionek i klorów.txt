@@ -1,0 +1,14 @@
+Specyfikacja wykorzystanych czcionek i kolorów:
+	
+	*kolory:
+
+	#D3D3D3;
+	#87CEFA;
+	#191970;
+	black;
+	gray.
+
+	czcionki:
+
+	serif;
+	arial.
